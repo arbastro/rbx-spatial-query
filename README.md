@@ -44,7 +44,7 @@ There’s no reciprocity or “pay it forward” requirement, even if you substa
 ----
 
 ### ABOUT THE CREATOR:
-Heya, I'm orangebird3, or you can call me Orange, and I made this module mainly for personal usage but decided to make it open source to help out the community. I'm confident there are better modules available, but this should server your quick and basic usage purposes.
+Heya, I'm orangebird3, or you can call me Orange, and I made this module mainly for personal usage but decided to make it open source to help out the community. I'm confident there are better modules available, but this should serve your quick and basic usage purposes.
 
 ### HOW DOES THIS SCRIPT WORK?
 This module uses a grid-based spatial query system to quickly locate objects within a specified radius. It works by dividing the workspace into a grid of cells, and then storing objects in the cells that they occupy. 
